@@ -1,6 +1,5 @@
 # Wassup, I am Berk
 ### Software Engineering student | Cybersecurity & Backend
-
 ###
 - 🎓 Software Engineering student @ Işık University
 - 🔐 Learning cybersecurity — TryHackMe, Google Cybersecurity Certificate, prepping for Security+
