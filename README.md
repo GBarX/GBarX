@@ -10,3 +10,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-goksu-2a301127b)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thebitstack)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gbarx.github.io-F0A830?style=flat&logo=googlechrome&logoColor=white)](https://gbarx.github.io)
